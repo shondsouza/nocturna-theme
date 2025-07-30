@@ -1,0 +1,21 @@
+{
+  "name": "nocturna-theme",
+  "displayName": "Nocturna Theme",
+  "description": "Nocturna is a sleek and modern dark theme for Visual Studio Code. Designed for deep focus, minimal eye strain, and an immersive coding experience—day or night.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nocturna",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nocturna-color-theme.json"
+      }
+    ]
+  }
+}
