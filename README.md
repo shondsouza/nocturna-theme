@@ -21,6 +21,4 @@ Or install from the [Marketplace](https://marketplace.visualstudio.com/items?ite
 
 
 ## Contributing
-
 Want to improve Nocturna? Check out the [contributing guidelines](https://github.com/shondsouza/nocturna-theme/blob/main/CONTRIBUTING.md) 
-
