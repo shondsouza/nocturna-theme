@@ -2,7 +2,7 @@
   "name": "nocturna-theme",
   "displayName": "Nocturna Theme",
   "description": "Nocturna is a sleek and modern dark theme for Visual Studio Code. Designed for deep focus, minimal eye strain, and an immersive coding experience—day or night.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "ShonDsouza",
   "icon": "icon.png",
   "repository": {
