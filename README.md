@@ -10,8 +10,14 @@
 
 You can install Nocturna directly from the Visual Studio Code Marketplace:
 
-1. Open **Extensions** panel in VS Code
-2. Search for `Nocturna Theme`
+1. Open **Extensions** panel in VS Code  
+2. Search for `Nocturna Theme`  
 3. Click **Install** and select the theme
 
-Or install from the VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=ShonDsouza.nocturna-theme).
+Or install from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ShonDsouza.nocturna-theme).
+
+## Maintainer
+
+[![Shon Dsouza](https://github.com/shondsouza.png?size=100)](https://github.com/shondsouza)  
+<br>
+[**Shon Dsouza**](https://github.com/shondsouza)
