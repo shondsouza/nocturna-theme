@@ -15,9 +15,3 @@ You can install Nocturna directly from the Visual Studio Code Marketplace:
 3. Click **Install** and select the theme
 
 Or install from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ShonDsouza.nocturna-theme).
-
-## Maintainer
-
-This theme is crafted and maintained by:
-
-- [Shon Dsouza](https://github.com/shondsouza)
