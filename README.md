@@ -1,4 +1,4 @@
-# Nocturna — A Dark Theme for VSCode
+# Nocturna — A Dark Theme for Visual Studio Code
 
 **Nocturna** is a sleek and immersive dark theme for VS Code, built for developers who love working in calm, focused environments with deep, moody tones.
 
@@ -16,9 +16,8 @@ You can install Nocturna directly from the Visual Studio Code Marketplace:
 
 Or install from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ShonDsouza.nocturna-theme).
 
+## Maintainer
 
+This theme is crafted and maintained by:
 
-
-
-## Contributing
-Want to improve Nocturna? Check out the [contributing guidelines](https://github.com/shondsouza/nocturna-theme/blob/main/CONTRIBUTING.md) 
+- [Shon Dsouza](https://github.com/shondsouza)
