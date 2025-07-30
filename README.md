@@ -20,7 +20,6 @@
 1. Open Extensions panel in VS Code: `Ctrl+Shift+X`
 2. Search for `Nocturna Theme`
 3. Click **Install** and apply the theme via `Ctrl+K Ctrl+T`
-
 ### Option 2: From VSIX File (manual)
 
 1. Clone or download this repo
