@@ -18,5 +18,5 @@ Or install from the [Marketplace](https://marketplace.visualstudio.com/items?ite
 
 ## Maintainer
 
-[![Shon Dsouza](https://github.com/shondsouza.png?size=100)](https://github.com/shondsouza)
+[![Shon Dsouza](https://github.com/shondsouza.png?size=100)](https://github.com/shondsouza)  
 [**Shon Dsouza**](https://github.com/shondsouza)
