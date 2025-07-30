@@ -1,16 +1,31 @@
-# nocturna-theme 
+# Nocturna is a **sleek, modern, and immersive dark theme** for Visual Studio Code. Crafted for developers who prefer a minimal, focused, and visually rich coding experience — day or night.
 
-## Working with Markdown
+![Nocturna Screenshot](https://raw.githubusercontent.com/shondsouza/nocturna-theme/main/assets/screenshot.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Features
 
-## For more information
+- Deep dark background with high-contrast, vibrant syntax
+- Carefully tuned color palette for readability and reduced eye strain
+- Focus-first design for long coding sessions
+- Great for web dev, Python, JavaScript, TypeScript, and more
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+## Installation
+
+### Option 1: From VS Code Marketplace
+
+1. Open Extensions panel in VS Code: `Ctrl+Shift+X`
+2. Search for `Nocturna Theme`
+3. Click **Install** and apply the theme via `Ctrl+K Ctrl+T`
+
+### Option 2: From VSIX File (manual)
+
+1. Clone or download this repo
+2. Run:
+   ```bash
+   npm install -g vsce
+   vsce package
+   code --install-extension nocturna-theme-*.vsix
