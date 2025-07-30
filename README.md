@@ -1,4 +1,4 @@
-# Nocturna — A Dark Theme for Visual Studio Code
+# Nocturna — A Dark Theme for VSCode
 
 **Nocturna** is a sleek and immersive dark theme for VS Code, built for developers who love working in calm, focused environments with deep, moody tones.
 
